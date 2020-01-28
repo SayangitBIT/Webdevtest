@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My web page</title>
+        <style>
+        body{
+            background-color :antiquewhite;
+        }
+        h1{
+           color:green;
+           background-color :black; 
+        }
+        </style>
+    </head>
+    <body style="background-color: pink;">
+    <body>
+        <h1>Hi</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quisquam, facere reiciendis, itaque veritatis iusto nemo consequatur ullam expedita laboriosam illo laborum alias quaerat in non, quas quia deleniti. Impedit.</p>
+        <br>
+        <p>konnichiwa</p>
+        <a href="http://www.google.com">This ridirects to...</a>
+        <img src="./cof.jpg" alt="this is coffee" height="200px" width="200px">
+        <br>
+        <br>
+        <ul>
+        <li>bech</li>
+        <li>mech</li>
+        </ul>
+        <ol>
+        <li>Re:Zero</li>
+        <li>Steins;Gate 0</li>
+        <li>Fate Zero</li>    
+        </ol>
+        <table border="1">
+                <tr>
+                <th>Roll</th>
+                <th>Branch</th>    
+                </tr>
+                <tr>
+                <td>10226</td>
+                <td>CSE</td>
+                </tr>
+        </table>
+        <div>
+         <p>odaohdaoshdsaohoaih<span>hsduhsdhih</span>odhaso</p>   
+        </div>
+    </body>
+</html>
+
+alt is for showing other text if the image doen't load due to connectivity issues 
+href- hyper text reference
+<p> paragraph tag
+
+
+img src-image source
+audio controls arc
+video controls src
+
+span tag
+div tag
+
+h1 id
+h1 class
